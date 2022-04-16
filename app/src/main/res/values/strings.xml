@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GoVysh Car</string>
+    <string name="Resend"><u>Resend</u></string>
 </resources>
