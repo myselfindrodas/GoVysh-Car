@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GoVyshCar">
         <activity
+            android:name=".Resetpassword"
+            android:exported="false" />
+        <activity
             android:name=".Forgotpassword"
             android:exported="false" />
         <activity
