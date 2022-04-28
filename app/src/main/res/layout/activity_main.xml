@@ -382,6 +382,12 @@
                     </LinearLayout>
 
 
+                    <include layout="@layout/rv_offers" />
+
+                    <include layout="@layout/rv_offers" />
+
+
+
                 </LinearLayout>
 
 
@@ -402,7 +408,7 @@
 
 
         <TextView
-            android:id="@+id/txt_sort"
+            android:id="@+id/btnRide"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"

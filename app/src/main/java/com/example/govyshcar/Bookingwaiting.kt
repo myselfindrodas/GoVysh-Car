@@ -3,19 +3,20 @@ package com.example.govyshcar
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
 import androidx.appcompat.widget.AppCompatButton
 
-class MainActivity : AppCompatActivity() {
+class Bookingwaiting : AppCompatActivity() {
 
-    var btnRide: TextView? = null
+    var btnCancelride: AppCompatButton? = null
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-        btnRide = findViewById(R.id.btnRide)
-        btnRide?.setOnClickListener {
-            val intent = Intent(this, Rideconfirmbook::class.java)
+        setContentView(R.layout.activity_bookingwaiting)
+        btnCancelride = findViewById(R.id.btnCancelride)
+        btnCancelride?.setOnClickListener {
+
+            val intent = Intent(this, Addpayment::class.java)
             startActivity(intent)
         }
     }

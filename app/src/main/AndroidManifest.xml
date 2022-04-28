@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GoVyshCar">
         <activity
+            android:name=".Cancelreason"
+            android:exported="false" />
+        <activity
+            android:name=".Cancelridereason"
+            android:exported="false" />
+        <activity
+            android:name=".Addpayment"
+            android:exported="false" />
+        <activity
+            android:name=".Bookingwaiting"
+            android:exported="false" />
+        <activity
+            android:name=".Changepickupspot"
+            android:exported="false" />
+        <activity
+            android:name=".Rideconfirmbook"
+            android:exported="false" />
+        <activity
             android:name=".Resetpassword"
             android:exported="false" />
         <activity
@@ -26,15 +44,19 @@
             android:exported="false" />
         <activity
             android:name=".Splash"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+
         </activity>
     </application>
 

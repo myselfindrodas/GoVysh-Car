@@ -6,16 +6,17 @@ import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.widget.AppCompatButton
 
-class MainActivity : AppCompatActivity() {
+class Rideconfirmbook : AppCompatActivity() {
 
-    var btnRide: TextView? = null
+    var btnConfirm: AppCompatButton? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-        btnRide = findViewById(R.id.btnRide)
-        btnRide?.setOnClickListener {
-            val intent = Intent(this, Rideconfirmbook::class.java)
+        setContentView(R.layout.activity_rideconfirmbook)
+        btnConfirm = findViewById(R.id.btnConfirm)
+        btnConfirm?.setOnClickListener {
+
+            val intent = Intent(this, Changepickupspot::class.java)
             startActivity(intent)
         }
     }
