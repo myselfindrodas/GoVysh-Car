@@ -3,22 +3,17 @@ package com.example.govyshcar
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.LinearLayout
 import androidx.appcompat.widget.AppCompatButton
 
-class Addpayment : AppCompatActivity() {
+class Ratedriver : AppCompatActivity() {
 
-    var btnWallet: LinearLayout? = null
-
-
-
+    var btnSubmit: AppCompatButton?=null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_addpayment)
-        btnWallet = findViewById(R.id.btnWallet)
-        btnWallet?.setOnClickListener {
-
-            val intent = Intent(this, Addcard::class.java)
+        setContentView(R.layout.activity_ratedriver)
+        btnSubmit = findViewById(R.id.btnSubmit)
+        btnSubmit?.setOnClickListener {
+            val intent = Intent(this, Mybooking::class.java)
             startActivity(intent)
         }
     }

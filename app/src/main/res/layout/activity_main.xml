@@ -15,11 +15,17 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <com.google.android.gms.maps.MapView
-                android:id="@+id/current_location"
+            <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginTop="@dimen/_45sdp" />
+                android:src="@drawable/map2"
+                android:layout_marginTop="-130dp"/>
+
+<!--            <com.google.android.gms.maps.MapView-->
+<!--                android:id="@+id/current_location"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_marginTop="@dimen/_45sdp" />-->
 
 
             <LinearLayout

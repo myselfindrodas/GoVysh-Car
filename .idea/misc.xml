@@ -6,28 +6,47 @@
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/border1.xml" value="0.1945" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/border2.xml" value="0.1945" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/border3.xml" value="0.1945" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/border4.xml" value="0.195" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/border5.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/border6.xml" value="0.195" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/button10.xml" value="0.1945" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/dotted.xml" value="0.195" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/ic_button.xml" value="0.1945" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/ic_chart.xml" value="0.1945" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/ic_pin.xml" value="0.1715" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/ic_star.xml" value="0.195" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/drawable/strikethrough_foreground.xml" value="0.195" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_addcard.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_addpayment.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_bookingwaiting.xml" value="0.22395833333333334" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_cancelreason.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_cancelridereason.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_changepickupspot.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_drivercoming.xml" value="0.264" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_forgotpassword.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_login.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_mybooking.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_otp.xml" value="0.264" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_payment.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_ratedriver.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_registration.xml" value="0.264" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_resetpassword.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_rideconfirmbook.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_ridefaredetails.xml" value="0.264" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/activity_splash.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/drawer_layout_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/layout_addcard.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/layout_addpayment.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/layout_booking.xml" value="0.264" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/layout_bookingwait.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/layout_cancelridereasons.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/layout_drivercoming.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/layout_pickupchange.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/rv_availablecar.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/rv_bookingcancelled.xml" value="0.4" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/rv_bookingcomplete.xml" value="0.264" />
+        <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/rv_bookingupcoming.xml" value="0.264" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/rv_offers.xml" value="0.264" />
         <entry key="..\:/Users/indra/AndroidStudioProjects/GoVyshCar/app/src/main/res/layout/rv_saveaddress.xml" value="0.264" />
       </map>

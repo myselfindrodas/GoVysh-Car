@@ -10,25 +10,14 @@
         android:background="@drawable/border1"
         android:orientation="vertical">
 
+
+
+
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginTop="@dimen/_10sdp"
-            android:src="@drawable/ic_line" />
-
-
-        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="@dimen/_10sdp"
-            android:layout_marginTop="@dimen/_10sdp"
-            android:layout_marginRight="@dimen/_10sdp"
-            android:fontFamily="@font/poppinsmedium"
-            android:text="Please wait while we send the \n Booking request to your \n nearby driver."
-            android:textAlignment="center"
-            android:textColor="@color/black"
-            android:textSize="@dimen/_16sdp" />
+            android:layout_marginTop="@dimen/_15sdp"
+            android:src="@drawable/drivercomingdemo"/>
 
 
         <androidx.appcompat.widget.AppCompatButton
