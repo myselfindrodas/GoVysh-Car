@@ -89,9 +89,9 @@
                 android:id="@+id/ImgProduct"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.6"
-                android:padding="@dimen/_7sdp"
-                android:src="@drawable/carimage" />
+                android:layout_marginEnd="@dimen/_15sdp"
+                android:layout_weight="0.5"
+                android:src="@drawable/newcar" />
 
 
         </LinearLayout>

@@ -53,10 +53,10 @@ class Login : AppCompatActivity() {
 
         btnLogin?.setOnClickListener {
 
-//            val intent = Intent(this, MainActivity::class.java)
-//            startActivity(intent)
+            val intent = Intent(this, MainActivity::class.java)
+            startActivity(intent)
 
-            checkblank()
+//            checkblank()
         }
     }
 
